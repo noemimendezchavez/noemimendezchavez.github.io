@@ -1,1 +1,5 @@
 # noemimendezchavez.github.io
+
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World! My name is Noemi Mendez, I am a last year computer science student. The goal is for me to become a software engineer when I graduate, specifically I am interested in being a site reliabilty engineer. I want to do that as a career while also having many computer/programming related hobbied and maybe even possibly tying it into other aspects of my life. I am also and above all else a Christian and it is that that pushes me for not only wanting better for my family and myself, but for humanity overall. As a Christian I believe we live in a fallen world but are called onto fight for justice, for the opppressed, to be a peacemaker and to stive to be more christ-like. It is these beliefs that push me to also be an activist and involve myself in any fight that is for the betterment of an opressed people and therefore for humanity. I understand this is something I am personally passionate about but I do believe that it is all our responsilibites to always fight and contribute to humanity in some way. ");
